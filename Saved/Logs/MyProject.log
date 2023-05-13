@@ -1456,3 +1456,94 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.13-20.24.12:045][681]SourceControl:  rewrite Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset (86%)
 [2023.05.13-20.24.12:045][681]SourceControl:  create mode 100644 MyProject.uproject
 [2023.05.13-20.24.12:057][681]SourceControl: Commited [Blokada 52370fc] Fucking submit content.
+[2023.05.13-20.26.11:328][197]AssetReimport: New page: Outstanding source content changes 02:26:11
+[2023.05.13-20.26.11:329][197]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/Bandos.png)
+[2023.05.13-20.26.11:329][197]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.05.13-20.26.11:331][197]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/Bandos_n.png)
+[2023.05.13-20.26.11:351][197]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.13-20.26.11:383][198]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BackGraund.png)
+[2023.05.13-20.26.11:385][198]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BackGraund_n.png)
+[2023.05.13-20.26.11:398][198]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BuildinBase.png)
+[2023.05.13-20.26.11:458][199]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BuildinBase_n.png)
+[2023.05.13-20.26.11:468][199]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/FONARb.png)
+[2023.05.13-20.26.11:468][199]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.05.13-20.26.11:469][199]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/FONARb_n.png)
+[2023.05.13-20.26.11:554][200]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/LitleRoad.png)
+[2023.05.13-20.26.11:556][200]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/LitleRoad_n.png)
+[2023.05.13-20.26.11:557][200]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/Window.png)
+[2023.05.13-20.26.11:557][200]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.05.13-20.26.11:558][200]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET.png)
+[2023.05.13-20.26.11:558][200]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.05.13-20.26.11:559][200]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET_n.png)
+[2023.05.13-20.26.11:696][201]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/Window_n.png)
+[2023.05.13-20.26.11:991][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-20.26.12:112][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bandos" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/Bandos.uasset" SILENT=true
+[2023.05.13-20.26.12:113][201]LogSavePackage: Moving output files for package: /Game/Bandos
+[2023.05.13-20.26.12:113][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/Bandos0E0C6B614BE52019BBF7CA91145976A9.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/Bandos.uasset'
+[2023.05.13-20.26.12:115][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bandos_n" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/Bandos_n.uasset" SILENT=true
+[2023.05.13-20.26.12:117][201]LogSavePackage: Moving output files for package: /Game/Bandos_n
+[2023.05.13-20.26.12:117][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/Bandos_nC3FAA13D4FBF4F2B38AC53BAA23D95CB.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/Bandos_n.uasset'
+[2023.05.13-20.26.12:119][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/BackGraund" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BackGraund.uasset" SILENT=true
+[2023.05.13-20.26.12:121][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/BackGraund
+[2023.05.13-20.26.12:121][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/BackGraundE0AA904846654E457E9C3790D8BE5F29.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BackGraund.uasset'
+[2023.05.13-20.26.12:123][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/BackGraund_n" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BackGraund_n.uasset" SILENT=true
+[2023.05.13-20.26.12:126][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/BackGraund_n
+[2023.05.13-20.26.12:126][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/BackGraund_n8978E62943C8D56155C9A6A2C4C596B7.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BackGraund_n.uasset'
+[2023.05.13-20.26.12:128][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/BuildinBase" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BuildinBase.uasset" SILENT=true
+[2023.05.13-20.26.12:130][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/BuildinBase
+[2023.05.13-20.26.12:130][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/BuildinBase2C5F511F4629C226E8D1C994F2FAB908.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BuildinBase.uasset'
+[2023.05.13-20.26.12:132][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/BuildinBase_n" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BuildinBase_n.uasset" SILENT=true
+[2023.05.13-20.26.12:134][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/BuildinBase_n
+[2023.05.13-20.26.12:134][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/BuildinBase_n9423ACB14AEFC8AD6B32EEA4920F2679.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/BuildinBase_n.uasset'
+[2023.05.13-20.26.12:135][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/FONARb" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/FONARb.uasset" SILENT=true
+[2023.05.13-20.26.12:137][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/FONARb
+[2023.05.13-20.26.12:137][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/FONARb9F81DB804F25215568E2BB88F818127E.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/FONARb.uasset'
+[2023.05.13-20.26.12:139][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/FONARb_n" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/FONARb_n.uasset" SILENT=true
+[2023.05.13-20.26.12:141][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/FONARb_n
+[2023.05.13-20.26.12:141][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/FONARb_n119AA4C9431C7111E39E0FB12A6A9BC6.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/FONARb_n.uasset'
+[2023.05.13-20.26.12:142][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/LitleRoad" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/LitleRoad.uasset" SILENT=true
+[2023.05.13-20.26.12:144][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/LitleRoad
+[2023.05.13-20.26.12:144][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/LitleRoadEB833310470141459352B98A8826AF82.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/LitleRoad.uasset'
+[2023.05.13-20.26.12:146][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/LitleRoad_n" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/LitleRoad_n.uasset" SILENT=true
+[2023.05.13-20.26.12:147][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/LitleRoad_n
+[2023.05.13-20.26.12:147][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/LitleRoad_n6FC94152414E8E54B2D4D18B2CD82BB1.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/LitleRoad_n.uasset'
+[2023.05.13-20.26.12:149][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/Window" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/Window.uasset" SILENT=true
+[2023.05.13-20.26.12:150][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/Window
+[2023.05.13-20.26.12:150][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/Window1D190AB4420C6A9E86097983357BB04F.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/Window.uasset'
+[2023.05.13-20.26.12:153][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET
+[2023.05.13-20.26.12:153][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/WindowGUARD_EBANUTIY_SVET45FE104641DBCD53E6DA80A1D0C23C05.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET.uasset'
+[2023.05.13-20.26.12:155][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET_n
+[2023.05.13-20.26.12:155][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/WindowGUARD_EBANUTIY_SVET_n7805AB034ECC1C4CAD4AC082DF17BD0F.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET_n.uasset'
+[2023.05.13-20.26.12:157][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST-NORMALMAP/Window_n" FILE="C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/Window_n.uasset" SILENT=true
+[2023.05.13-20.26.12:158][201]LogSavePackage: Moving output files for package: /Game/TEST-NORMALMAP/Window_n
+[2023.05.13-20.26.12:158][201]LogSavePackage: Moving 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Saved/Window_nF8E78DDB4F68B1A98BA7BFA5D81B7D5E.tmp' to 'C:/Users/accrrsd/Documents/Unreal Projects/MyProject/Content/TEST-NORMALMAP/Window_n.uasset'
+[2023.05.13-20.26.12:389][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 397 ms (total: 499 ms)
+[2023.05.13-20.26.12:407][202]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/Window_n.Window_n
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET_n.WindowGUARD_EBANUTIY_SVET_n
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET.WindowGUARD_EBANUTIY_SVET
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/Window.Window
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/LitleRoad_n.LitleRoad_n
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/LitleRoad.LitleRoad
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/FONARb_n.FONARb_n
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/FONARb.FONARb
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/BuildinBase_n.BuildinBase_n
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/BuildinBase.BuildinBase
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/BackGraund_n.BackGraund_n
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TEST-NORMALMAP/BackGraund.BackGraund
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Bandos_n.Bandos_n
+[2023.05.13-20.26.12:407][202]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Bandos.Bandos
+[2023.05.13-20.26.15:396][478]AssetReimport: Importing new asset /Game/Bandos.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/Bandos_n.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/BackGraund.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/BackGraund_n.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/BuildinBase.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/BuildinBase_n.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/FONARb.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/FONARb_n.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/LitleRoad.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/LitleRoad_n.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/Window.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/WindowGUARD_EBANUTIY_SVET_n.
+[2023.05.13-20.26.15:397][478]AssetReimport: Importing new asset /Game/TEST-NORMALMAP/Window_n.
